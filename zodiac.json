@@ -1,0 +1,64 @@
+{
+  "zodiac": [
+    {
+      "name": "aries",
+      "date": "21 Maret - 19 April",
+      "description": "Orang yang lahir dalam rentang waktu Aries memiliki sifat-sifat yang khas, seperti keberanian, energi tinggi, dan kepemimpinan yang kuat. Mereka dikenal sebagai pionir yang berani menghadapi tantangan dan tidak takut mengambil risiko. Sifat utama Aries adalah ambisi yang tinggi, selalu ingin mencapai tujuan dengan segala cara. Meskipun terkadang terlihat impulsif, Aries juga memiliki semangat yang besar dan keberanian untuk menjalani kehidupan dengan penuh semangat."
+    },
+    {
+      "name": "taurus",
+      "date": "20 April - 20 Mei",
+      "description": "Taurus dikenal sebagai zodiak yang stabil, ulet, dan praktis. Mereka cenderung memiliki keteguhan batin yang tinggi dan tekun dalam mencapai tujuan. Sifat penuh kestabilan membuat Taurus menjadi individu yang dapat diandalkan dan konsisten dalam tindakan mereka. Keuletan dan ketahanan Taurus membuat mereka dapat mengatasi hambatan dengan tekad dan keuletan. Di sisi lain, Taurus juga cenderung realistis dan praktis dalam menghadapi masalah, mencari solusi yang sesuai dengan keadaan nyata."
+    },
+    {
+      "name": "gemini",
+      "date": "21 Mei - 20 Juni",
+      "description": "Gemini, yang lahir dalam rentang waktu ini, dikenal sebagai sosial, mudah beradaptasi, dan ramah. Mereka senang berkomunikasi dan bersosialisasi dengan berbagai orang. Sifat ramah dan mudah bergaul membuat Gemini dapat dengan cepat membentuk hubungan sosial. Kemampuan beradaptasi yang tinggi membuat mereka nyaman dalam berbagai situasi dan lingkungan. Namun, terkadang mereka cenderung tidak sabaran dan mudah bosan, sehingga membutuhkan variasi dan tantangan baru dalam kehidupan mereka."
+    },
+    {
+      "name": "cancer",
+      "date": "21 Juni - 22 Juli",
+      "description": "Sifat utama dari Cancer adalah kepedulian, emosional, dan protektif. Individu yang lahir dalam rentang waktu ini memiliki kepekaan emosional yang tinggi dan cenderung bersikap peduli terhadap perasaan orang lain. Mereka juga dikenal sebagai pelindung yang sangat memperhatikan keluarga dan teman-teman terdekat. Cancer memiliki kecenderungan untuk menciptakan hubungan yang mendalam dan penuh kasih sayang. Namun, di sisi lain, mereka bisa menjadi terlalu emosional dan terkadang sulit untuk melepaskan diri dari kenangan masa lalu."
+    },
+    {
+      "name": "leo",
+      "date": "23 Juli - 22 Agustus",
+      "description": "Leo dikenal sebagai sosok yang penuh percaya diri, berani, dan penuh semangat. Mereka memiliki kepribadian yang dominan dan suka menjadi pusat perhatian. Sifat berani dan percaya diri membuat Leo mampu menjadi pemimpin alami dan mengambil inisiatif dalam berbagai situasi. Mereka juga cenderung setia dan murah hati terhadap orang-orang yang mereka cintai. Terkadang, Leo dapat terlihat agak egois dan memerlukan pengakuan dari lingkungan sekitar."
+    },
+    {
+      "name": "virgo",
+      "date": "23 Agustus - 22 September",
+      "description": "Virgo dikenal sebagai perfeksionis yang teliti, analitis, dan praktis. Mereka memiliki kecenderungan untuk memperhatikan detail dan menjalani hidup dengan cara yang terorganisir. Sifat analitis mereka membuat Virgo mampu menyelesaikan tugas dengan akurasi tinggi. Mereka juga memiliki sifat praktis yang memungkinkan mereka mengatasi masalah dengan cara yang efektif. Di sisi lain, terkadang Virgo cenderung terlalu kritis terhadap diri sendiri dan orang lain."
+    },
+    {
+      "name": "libra",
+      "date": "23 September - 22 Oktober",
+      "description": "Libra dikenal sebagai sosok yang harmonis, adil, dan sosial. Mereka memiliki kecenderungan untuk mencari keseimbangan dalam hubungan dan kehidupan sehari-hari. Libra senang hidup dalam lingkungan yang harmonis dan mencoba menghindari konflik. Sifat adil mereka membuat mereka menjadi mediator yang baik dalam situasi konflik. Meskipun mereka dapat terlihat sebagai pribadi yang selalu bersikap ramah, Libra terkadang kesulitan membuat keputusan karena ketidaknyamanan terhadap konfrontasi."
+    },
+    {
+      "name": "scorpio",
+      "date": "23 Oktober - 21 November",
+      "description": "Scorpio dikenal sebagai sosok yang intens, penuh misteri, dan penuh hasrat. Mereka memiliki kepekaan emosional yang mendalam dan cenderung mengeksplorasi sisi-sisi kehidupan yang penuh misteri. Scorpio juga dikenal sebagai individu yang memiliki hasrat dan tekad kuat dalam mencapai tujuan mereka. Sifat intens ini membuat mereka penuh daya tarik dan mampu mengatasi tantangan dengan penuh semangat. Namun, Scorpio juga bisa menjadi sangat penuh rahasia dan sulit dipahami oleh orang lain."
+    },
+    {
+      "name": "sagitarius",
+      "date": "22 November - 21 Desember",
+      "description": "Orang yang lahir dalam rentang waktu Sagittarius dikenal sebagai optimis, petualang, dan suka kebebasan. Mereka senang menjelajahi dunia dan mencari pengalaman baru. Sifat optimis membuat Sagittarius melihat sisi baik dari setiap situasi. Mereka memiliki semangat petualangan yang tinggi dan suka hidup tanpa batasan. Sagittarius juga memiliki kejujuran yang tinggi, terkadang hingga membuat mereka terlalu blak-blakan."
+    },
+    {
+      "name": "capricorn",
+      "date": "22 Desember - 19 Januari",
+      "description": "Capricorn dikenal sebagai sosok yang ambisius, disiplin, sabar, dan bertanggung jawab. Mereka memiliki fokus tinggi terhadap pencapaian tujuan dan keberanian untuk bekerja keras mencapai hal tersebut. Sifat disiplin membuat Capricorn menjadi individu yang dapat diandalkan dan bertanggung jawab. Mereka juga cenderung sabar dalam menghadapi rintangan dan sulit menyerah pada tantangan."
+    },
+    {
+      "name": "aquarius",
+      "date": "20 Januari - 18 Februari",
+      "description": "Aquarius dikenal sebagai sosok yang inovatif, independen, dan sosial. Mereka senang berpikir di luar kotak dan memiliki pandangan progresif terhadap kehidupan. Aquarius gemar berinteraksi sosial dan sering terlibat dalam kegiatan yang mendukung perubahan positif. Mereka memiliki kecenderungan menjadi pemimpin dalam mengusung ide-ide baru. Meskipun independen, Aquarius dapat menjadi terlalu idealis terkadang."
+    },
+    {
+      "name": "pisces",
+      "date": "19 Februari - 20 Maret",
+      "description": "Orang yang lahir dalam rentang waktu Pisces dikenal sebagai sosok yang penuh empati, kreatif, dan sensitif. Mereka memiliki kepekaan emosional yang tinggi dan mampu merasakan perasaan orang lain. Sifat kreatif membuat Pisces cenderung memiliki kecenderungan artistik dan bermimpi besar. Mereka sering mendukung teman dan keluarga dengan penuh pengertian. Namun, di sisi lain, Pisces juga dapat terlalu sensitif dan mudah terbawa suasana hati orang lain."
+    }
+  ]
+}
