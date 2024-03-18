@@ -28,6 +28,7 @@ monthSelect.addEventListener("change", () => {
     case "august":
     case "october":
     case "december":
+      date.length = 0;
       for (let i = 1; i <= 31; i++) {
         date.push(i);
       }
@@ -37,12 +38,14 @@ monthSelect.addEventListener("change", () => {
     case "june":
     case "september":
     case "november":
+      date.length = 0;
       for (let i = 1; i <= 30; i++) {
         date.push(i);
       }
       dateSelect.removeAttribute("disabled");
       break;
     case "february":
+      date.length = 0;
       for (let i = 1; i <= 29; i++) {
         date.push(i);
       }
