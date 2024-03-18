@@ -125,7 +125,7 @@ const renderResult = (name, date, description) => {
   return /*html*/ `
   <div>
     <h2 class="text-capitalize">${name}</h2>
-    <h4>Date : ${date}</h4>
+    <h4>Tanggal : ${date}</h4>
     <p>${description}</p>
   </div>
   `;
